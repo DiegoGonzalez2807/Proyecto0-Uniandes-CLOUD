@@ -21,6 +21,7 @@ Este paso a  paso va enfocado al despliegue de la aplicación en una máquina ya
    git clone https://github.com/DiegoGonzalez2807/Proyecto0-Uniandes-CLOUD.git
 2. Entrar a la carpeta del repositorio clonado y ejecutar el siguiente comando:
    ```bash
+   cd Proyecto0-Uniandes-CLOUD
    pip install -r requirements.txt
    ```
    ##### Lo que se hace con este comando es instalar las librerias necesarias para que el Frontend y el Backend se ejecuten de manera correcta.
